@@ -55,7 +55,9 @@ A representative output is shown below:
   "error_type": "visual_hallucination",
   "explanation": "The model mentions chart labels that are not present in the image."
 }
-'''
+```
+
+---
 
 ## Relation to Paper
 
