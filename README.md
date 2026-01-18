@@ -52,7 +52,7 @@ A representative output is shown below:
 ```json
 {
   "final_score": 3,
-  "error_type": "visual_hallucination",
+  "error_type": "Hallucination",
   "explanation": "The model mentions chart labels that are not present in the image."
 }
 ```
