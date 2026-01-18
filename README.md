@@ -55,3 +55,14 @@ A representative output is shown below:
   "error_type": "visual_hallucination",
   "explanation": "The model mentions chart labels that are not present in the image."
 }
+'''
+
+## Relation to Paper
+
+This repository documents the methodology and research artifacts associated with the paper:
+
+Judging Model for Large-scale Multimodality Benchmarks
+(arXiv:2601.06106)
+
+Due to collaborative research constraints and the use of proprietary model APIs, the full implementation is not publicly released.
+However, this repository provides a transparent view of the system design, evaluation logic, and experimental principles underlying the study.
