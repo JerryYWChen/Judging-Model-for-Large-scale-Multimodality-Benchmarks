@@ -59,24 +59,11 @@ A representative output is shown below:
 
 ---
 
-## Relation to Paper
+## Reference
+This project is based on the research paper:
 
-This repository documents the methodology and research artifacts associated with the paper:
+*Judging Model for Large-scale Multimodality Benchmarks*  
+arXiv:2601.06106
 
-Judging Model for Large-scale Multimodality Benchmarks
-(arXiv:2601.06106)
-
-Due to collaborative research constraints and the use of proprietary model APIs, the full implementation is not publicly released.
-However, this repository provides a transparent view of the system design, evaluation logic, and experimental principles underlying the study.
-
-## Citation
-If you find this work useful, please refer to the associated paper:
-
-```bibtex
-@article{shih2026judging,
-  title={Judging Model for Large-scale Multimodality Benchmarks},
-  author={Shih, Min-Han and Wu, Yu-Hsin and Chen, Yu-Wei},
-  journal={arXiv preprint arXiv:2601.06106},
-  year={2026}
-}
-```
+The repository focuses on documenting the system design and evaluation methodology.  
+The full implementation is not publicly released due to collaborative research and proprietary model APIs.
